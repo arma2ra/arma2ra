@@ -12,4 +12,4 @@ Skills: Windows Server, Linux, Bash, Powershell, Ansible, Docker, MySQL, MongoDB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arma2ra&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/arma2ra)  
+![Profile views](https://gpvc.arturio.dev/arma2ra)  
