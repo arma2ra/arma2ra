@@ -1,4 +1,5 @@
-### Hi there 👋, My name is Alexei
+### Hi there 👋!
+### My name is Alexei.
 
 - 👨‍💻 I'm System Administrator with more then 5 years experience.
 - Skills: Linux, Windows Server, VMware, Hyper-V, Bash, Powershell, Ansible, Docker, MySQL, MongoDB, MS SQL, Zabbix and etc.
