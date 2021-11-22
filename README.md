@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Alexei
 
-- 👨‍💻 I'm System Administrator.
+- 👨‍💻 I'm System Administrator with more then 5 years experience.
 - Skills: Linux, Windows Server, VMware, Hyper-V, Bash, Powershell, Ansible, Docker, MySQL, MongoDB, MS SQL, Zabbix and etc.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arma2ra)](https://github.com/anuraghazra/github-readme-stats)
