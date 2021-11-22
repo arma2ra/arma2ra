@@ -1,4 +1,4 @@
-### Hi there 👋!
+### Hi there! 👋
 ### My name is Alexei.
 
 - 👨‍💻 I'm System Administrator with more then 5 years experience.
