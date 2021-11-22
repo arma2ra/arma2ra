@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/arma2ra)
+![GitHub metrics](https://metrics.lecoq.io/arma2ra)  
 ### Hi there 👋, My name is Alexei
 I am System Administrator.
 
@@ -12,4 +14,4 @@ Skills: Windows Server, Linux, Bash, Powershell, Ansible, Docker, MySQL, MongoDB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arma2ra&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/arma2ra)  
+
