@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Alexei
-I am System Administrator
+I am System Administrator.
 
 Skills: Windows Server, Linux, Bash, Powershell, Ansible, Docker, MySQL, MongoDB, MS SQL, Zabbix and etc.
 
@@ -10,4 +10,6 @@ Skills: Windows Server, Linux, Bash, Powershell, Ansible, Docker, MySQL, MongoDB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arma2ra)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arma2ra&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arma2ra&show_icons=true)
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/arma2ra)  
