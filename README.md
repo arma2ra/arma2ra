@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @arma2ra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, My name is Alexei
+I am System Administrator
 
-<!---
-arma2ra/arma2ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: Windows Server, Linux, Bash, Powershell, Ansible, Docker, MySQL, MongoDB, MS SQL, Zabbix and etc.
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/arma2ra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alexei-drozd-040590//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/arma2ra)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/arma2ra&show_icons=true)  
