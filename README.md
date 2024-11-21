@@ -1,7 +1,9 @@
 ### Hi there! 👋
 
-- 👨‍💻 I'm System Administrator with more then 5 years experience.
-- Skills: Linux, Windows Server, VMware, Hyper-V, Bash, Powershell, Ansible, Docker, MySQL, MongoDB, MS SQL, Zabbix and etc.
+- 👨‍💻 I'm System Engineer/DevOps with more then 8 years of experience in banking, telecom and fintech companies. I have successful experience in implementing/supporting different system..
+- Administration of Linux, Windows, virtualization solutions (VMWare, Hyper-V) and different databases.
+- Knowledge of DevOps practices and tools in CI/CD approaches (Jenkins, GitLab, Bitbucket).
+- Practical experience with Terraform, AWS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arma2ra)](https://github.com/anuraghazra/github-readme-stats)
 
