@@ -1,6 +1,6 @@
 #!/bin/bash
 # set token
-TOKEN=""
+TOKEN="$1"
 
 # get dump and decode
 curl "https://hackattic.com/challenges/backup_restore/problem?access_token=$TOKEN" \
